@@ -1,1 +1,1 @@
-# Doctor-appoinntment-system
+# hospital-appointment-system
